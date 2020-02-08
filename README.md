@@ -9,5 +9,3 @@ You can download the Arduino code: our project is OPEN-SOURCE, so you can edit t
 Visit our website: http://bb8.altervista.org
 
 Instructables: https://www.instructables.com/id/How-to-Make-a-Life-Size-BB8-With-Arduino
-
-This is a short video of the body: https://www.facebook.com/piatanesi.samuel/videos/1160782840641229
