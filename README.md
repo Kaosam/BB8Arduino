@@ -9,3 +9,4 @@ We have used Arduino with USB Host Shield and Adafruit Motor Shield. You can con
 In this repository you can download the Arduino code: our project is OPEN-SOURCE, so you can edit the code and try to help us to improve the movement of our BB8!
 
 Full Instructions: https://www.instructables.com/id/How-to-Make-a-Life-Size-BB8-With-Arduino
+Other Details: https://samuelpiatanesi.altervista.org/bb8.php
