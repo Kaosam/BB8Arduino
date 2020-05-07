@@ -9,4 +9,4 @@ In this repository you can download the Arduino code: our project is OPEN-SOURCE
 
 Full Instructions: https://www.instructables.com/id/How-to-Make-a-Life-Size-BB8-With-Arduino
 
-My website: https://samuelpiatanesi.altervista.org/bb8.php
+My website: https://www.samuelpiatanesi.it/bb8.php
